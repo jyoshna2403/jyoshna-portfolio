@@ -29,7 +29,7 @@ function App() {
     { title: "Hexart AI Certification", file: "/certificates/Hexart_AI.pdf" },
     { title: "Java Foundation Certification", file: "/certificates/Java_Foundation.pdf" },
     { title: "Oracle Cloud AI Foundations", file: "/certificates/Oracle.pdf" },
-    { title: "Salesforce Agentforce Specialist", file: "/certificates/salesforce.jpeg" }
+    { title: "Salesforce Agentforce Specialist", file: "/certificates/salesforce.jpg" }
   ];
 
   const hackathons = [
